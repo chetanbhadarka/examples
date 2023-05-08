@@ -17,12 +17,15 @@ This module is a customised module of some examples. here are some dependencies 
 
 
 I modified this module as per my requirement. This module is used for choose currency. here are some images:
+![Circular Slider 01](https://github.com/chetanbhadarka/examples/blob/e262fa422dd432a285a398e451ebc5620b197519/screen_shots/CircularSlider1.jpg)
+![Circular Slider 02](https://github.com/chetanbhadarka/examples/blob/e262fa422dd432a285a398e451ebc5620b197519/screen_shots/CircularSlider2.jpg)
 
 # LinkedIn Reaction Button
 
 This module is now common and necessary for many social media projects. Basically it is a button with some gesture controlls. This module is modified version of (https://medium.com/@duytq94/facebook-reactions-animation-with-react-native-8f750e136ff5) this blog. I do some changes as per my requirements to make it same like LinkedIn post reaction button.
 
 There are some challanges with this module, like manage panHandlers with animated views. This module is fully customisable with animation and UI. here are some images of this module.
+![Reaction Button](https://github.com/chetanbhadarka/examples/blob/e262fa422dd432a285a398e451ebc5620b197519/screen_shots/ReactionButton.jpg)
 
 
 ## Redux Configuration with redux-toolkit, redux-persits and redux-thunk
@@ -35,6 +38,7 @@ for this example i used image api to load data from api -> store into redux -> l
 - blacklist image data with persits
 
 Also, we can easily add pagination with this flatlist to get more data on click events. here are some images:
+![Redux with API](https://github.com/chetanbhadarka/examples/blob/e262fa422dd432a285a398e451ebc5620b197519/screen_shots/Redux.jpg)
 
 # Unit Test
 
